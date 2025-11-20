@@ -5,7 +5,7 @@ This project uses **Machine Learning** techniques to predict whether an employee
 It is a **Binary Classification** problem where the target variable indicates **Attrition = Yes (1)** or **No (0)**.
 
 ## 🧠 Project Highlights
-- **Type:** Binary Classification  
+- **Type:** Binary Classification 
 - **Language:** Python 🐍  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Dataset:** `Employee Attrition Prediction.csv` — contains HR-related features such as job role, satisfaction level, work-life balance, and salary.  
